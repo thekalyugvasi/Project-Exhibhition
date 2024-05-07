@@ -1,0 +1,10 @@
+Install the required libraries
+NumPy
+Date
+Time
+Mediapipe
+OpenCV
+CvZone
+ 
+
+
