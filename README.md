@@ -1,7 +1,3 @@
-Sure, here's a sample README file you could include with your code on GitHub:
-
----
-
 # Real-time Hand Gesture Recognition using OpenCV and CVZone
 
 This project demonstrates real-time hand gesture recognition using OpenCV and the CVZone library in Python. The application detects hand gestures from a live video feed and classifies them into predefined categories using a trained neural network model.
