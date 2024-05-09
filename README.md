@@ -58,6 +58,4 @@ python main.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to customize the README according to your project's specific details and requirements.
